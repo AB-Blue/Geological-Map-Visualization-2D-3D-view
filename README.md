@@ -72,9 +72,9 @@ In 2D plot, the well locations are the coordinates provided in well head file an
 # More information:
 
 A full video on how to run the code step by step is available on my YouTube channel 
-https:
 
+https://www.youtube.com/watch?v=5535GAPje14&t=1s 
 
-https:
+https://www.linkedin.com/feed/update/urn:li:ugcPost:7188817464997072897/
 
 
